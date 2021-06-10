@@ -3,7 +3,7 @@
 <!--About session-->
 <h1 align="center">Construindo o seu primeiro jogo de naves<br>Digital Innovation One</h1>
 
-<img src="https://i.postimg.cc/g2t5VJ8b/Jogo.png" title="Badge" width="70" height="70">
+<img src="https://i.postimg.cc/g2t5VJ8b/Jogo.png" title="Badge" width="1590" height="709">
 
 Curso do Bootcamp JavaScript Game Developer da [Digital Innovation One](https://digitalinnovation.one/).
 
