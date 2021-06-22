@@ -3,4 +3,4 @@
 
 Curso do Bootcamp JavaScript Game Developer da [Digital Innovation One](https://digitalinnovation.one/).
 
-<h3 align="center">Jogo em desenvolvimento</h3>
+
